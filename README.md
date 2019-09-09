@@ -26,4 +26,6 @@ yarn lint
 
 为了方便，项目fork自[dogeyeMovie](https://github.com/martin-yin/dogeyeMovie)
 
-如有侵权，请作者联系我随时关闭仓库
+在dogeyeMovie/v2基础上，对组件进行了抽离封装
+
+如有侵权，请作者及时联系我,随时关闭仓库
