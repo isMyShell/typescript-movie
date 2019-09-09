@@ -22,6 +22,8 @@ yarn lint
 
 ### 项目
 
-项目fork自[dogeyeMovie](https://github.com/martin-yin/dogeyeMovie)
+用来练习typescript在vue项目中的正确打开方式
 
-如有侵权，随时关闭仓库
+为了方便，项目fork自[dogeyeMovie](https://github.com/martin-yin/dogeyeMovie)
+
+如有侵权，请作者联系我随时关闭仓库
