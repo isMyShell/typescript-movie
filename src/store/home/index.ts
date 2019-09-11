@@ -16,11 +16,11 @@ const mutations = {
 
 const actions = {
     async movieList(context: { commit: Commit }, cate: string) {
-        try{
-            const res = await getMovieList(cate)
-            return res
-        } catch(e) {
-            console.log(e)
+        try {
+            const res = await getMovieList(cate);
+            return res;
+        } catch (e) {
+            console.log(e);
         }
     },
 };
