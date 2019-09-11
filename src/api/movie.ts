@@ -8,8 +8,8 @@ export const getMovieDetail = (id: string) => {
     });
 };
 
-export const getMovieList = (cate: string) => {
-    return request({
+export const getMovieList = async (cate: string) => {
+    return await request({
         url: `/api/movie/${cate}?apikey=0df993c66c0c636e29ecbb5344252a4a`,
         method: 'GET',
     });
